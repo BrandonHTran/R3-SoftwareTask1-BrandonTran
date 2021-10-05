@@ -1,8 +1,8 @@
 # R3-SoftwareTask1-BrandonTran
  Repository for the first software task of R3.
 
-Links: 
-
+Links:
+TinkerCAD: https://www.tinkercad.com/things/8T6pTK2RtVY
 
  This project contains 
  1 x Arduino Uno
